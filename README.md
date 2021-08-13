@@ -1,26 +1,8 @@
-Name
-====
+ナショナルエコノミーソロ
+# これはJAVAのコンソールで遊ぶボードゲームです。  
+CodeからダウンロードしてEclipseなどのエディタで遊んでください。  
+[こちら](http://rev84.github.io/NationalEconomySolo/)を参考にして作成しました。  
+ゲームを始めるとかなり長い説明文が表示されますが、nc20210515_processorの  
+Main.javaの31行目をコメントアウトすると説明文が表示されずに即プレイできます。
 
-Overview
 
-## Description
-
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
-## Author
-
-[tcnksm](https://github.com/tcnksm)
